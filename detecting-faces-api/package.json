@@ -1,0 +1,19 @@
+{
+  "name": "detecting-faces-api",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wayock",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "brew": "0.0.8",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4",
+    "update": "^0.7.4"
+  }
+}
