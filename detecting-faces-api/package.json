@@ -10,8 +10,10 @@
   "author": "wayock",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "brew": "0.0.8",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "nodemon": "^1.19.4",
     "update": "^0.7.4"
